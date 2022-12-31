@@ -2,12 +2,10 @@
 The Apps : Aplikasi Catatan Anda
 <div align='center'>
 
-<img src="Assets/ImamFirdaus.png" width="128"/>
+<img src="[![WhatsApp Image 2022-05-29 at 22 38 17](https://user-images.githubusercontent.com/82931864/210136117-1e238774-5232-4ffb-93b3-88880113671d.jpeg)
+  <br> [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) " width="128"/>
 <br>
-
-[![WhatsApp Image 2022-05-29 at 22 38 17](https://user-images.githubusercontent.com/82931864/210136117-1e238774-5232-4ffb-93b3-88880113671d.jpeg)
-  <br> [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
-
+[1207050135]
 </div>
 
 
