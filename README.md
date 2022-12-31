@@ -1,7 +1,9 @@
 # TheApps
 The Apps : Aplikasi Catatan Anda
 <div align='center'>
-![WhatsApp Image 2022-05-29 at 22 38 17](https://user-images.githubusercontent.com/82931864/210136318-453fb5ce-5421-43cf-8fa3-57646a11e7a1.jpg)
+![WhatsApp Image 2022-05-29 at 22 38 17](https://user-images.githubusercontent.com/82931864/210136331-52260a23-4b4b-4298-9145-4b7e58caee9d.jpg)
+
+  
 <br>
 [1207050135]
 </div>
