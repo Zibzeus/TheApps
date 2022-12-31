@@ -1,4 +1,7 @@
 # TheApps
+<a href ="http://if.uinsgd.ac.id/">Jurusan Teknik Informatika</a>
+<br>
+<a href = "https://uinsgd.ac.id/">UIN Sunan Gunung Djati Bandung</a>
 The Apps : Aplikasi Catatan Anda
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/82931864/210136331-52260a23-4b4b-4298-9145-4b7e58caee9d.jpg" width="128"/>
