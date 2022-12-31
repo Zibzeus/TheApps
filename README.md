@@ -2,7 +2,7 @@
 The Apps : Aplikasi Catatan Anda
 <div align='center'>
 
-<img src="![WhatsApp Image 2022-05-29 at 22 38 17](https://user-images.githubusercontent.com/82931864/210136242-fc804b9e-7e29-4ede-b775-15039bf62eb8.jpeg)"width="128"/>
+<img src="![WhatsApp Image 2022-05-29 at 22 38 17](https://user-images.githubusercontent.com/82931864/210136242-fc804b9e-7e29-4ede-b775-15039bf62eb8.jpeg)"width="128" height="70"/>
 <br>
 [1207050135]
 </div>
